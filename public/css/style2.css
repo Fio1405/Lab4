@@ -1,0 +1,42 @@
+body{
+  background-color: lightgray;
+}
+
+/*style logo y titulo*/
+.div-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoPrincipal {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+.div-login,
+.div-menu {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.iniciosesion,
+.menu {
+  background-color: #a1bf34;
+  color: white;
+}
+
+.header-navbar {
+  background-color: #0098a7;
+}
+
+/*Estilos para el menu*/
+.contenedor-cruds{
+  background-color: gray;
+}
+
+.div-footer {
+  background-color: #0098a7;
+}
